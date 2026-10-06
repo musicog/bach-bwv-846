@@ -1,2 +1,2 @@
 comment_id,task_id,subtask_id,kind,page,measure_start,measure_end,author_id,timestamp,resolved,parent_id,body
-2310fe29,P0001,S0001,fail,,,,177249593,2026-10-06T11:04:31.123Z,,,Problematic staff boxes on page 3
+2310fe29,P0001,S0001,fail,,,,177249593,2026-10-06T11:04:31.123Z,true,,Problematic staff boxes on page 3
