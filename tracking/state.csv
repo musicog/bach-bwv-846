@@ -2,7 +2,7 @@ task_id,subtask_id,status,encoder,encoded_at,validate_status_1
 P0001,,completed,177249593,2026-10-06T11:08:06.905Z,
 P0001,S0001,completed,,,pass|5521800|2026-10-06T11:14:07.269Z
 P0002,,validation_required,5521800,2026-10-06T11:42:35.133Z,
-P0002,S0001,validation_required,,,
+P0002,S0001,validation_required,,,pass
 T0001,,encoding_required,,,
 T0001,S0001,pending,,,
 T0002,,encoding_required,,,
